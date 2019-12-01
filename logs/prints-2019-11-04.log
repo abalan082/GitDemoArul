@@ -1,0 +1,7 @@
+13:50:55.070 [main] INFO  qaprojects.validation - Driver initialized successfully
+13:51:22.089 [main] INFO  qaprojects.Homepage - Driver initialized successfully
+13:52:11.514 [main] INFO  qaprojects.Homepage - Driver initialized successfully
+13:52:44.022 [main] INFO  qaprojects.Homepage - browser closed
+13:52:48.331 [main] INFO  qaprojects.validationNavigation - Driver initialized successfully
+13:52:58.227 [main] INFO  qaprojects.validationNavigation - Navigation to Homepage
+13:52:58.447 [main] INFO  qaprojects.validationNavigation - Navigation Display verified successfully
